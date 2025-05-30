@@ -22,7 +22,7 @@ mainly made for app lauchers like dmenu, rofi and others that use the `.desktop`
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/create-shortcut.git
+git clone https://github.com/denzven/create-shortcut.git
 cd create-shortcut
 chmod +x create-shortcut.sh
 ./create-shortcut.sh --install
